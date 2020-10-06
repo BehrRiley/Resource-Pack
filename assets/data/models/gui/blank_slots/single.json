@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"blank": "data:gui/blank_slots/single"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 0, 0 ],
+			"to": [ 18.3, 18, 19 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 1, 1 ], "texture": "#blank" }
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation":  [ 75, 0, 0 ],
+			"translation":  [ -1.3, 1.65, 10 ],
+			"scale":  [ 1, 0, 1 ]
+		}
+	}
+}

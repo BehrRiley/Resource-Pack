@@ -4,6 +4,7 @@
         "layer0": "item/paper"
     },
 	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "data:gui/blank_slots/single" },
 		{ "predicate": { "custom_model_data": 10140001 }, "model": "adriftus:item/alchemy/tattered_page" }
 	]
 }
